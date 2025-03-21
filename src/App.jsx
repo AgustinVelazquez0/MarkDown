@@ -44,7 +44,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>MARKDOWN TO HTML</h1>
+      <h1>MARKDOWN A HTML</h1>
       <h3>
         ¡Crea un markdown y se transcribirá automáticamente como si fuera un
         código HTML!
